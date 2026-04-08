@@ -44,7 +44,7 @@ Welcome to my GitHub! I am a passionate Systems Engineering student at Universid
 ### 🚀 Featured Projects
 
 * ⚽ **[FutbolAI](https://github.com/popcorner893/FutbolAI)** - Intelligent sports portal integrating AI to analyze football data, statistics, and news using conversational database agents and predictive modeling.
-* 🚗 **[Driver Monitoring System](https://github.com/popcorner893/Sistema_Monitoreo_Conductor)** - Real-time full-stack application using Computer Vision to detect fatigue and dangerous behaviors in drivers.
+* 🚗 **[Driver Monitoring System](https://github.com/popcorner893/Sistema_Monitoreo_Conductor)** -Full-stack application using Computer Vision to detect fatigue and dangerous behaviors in drivers.
 * 🔥 **[Wildfire Simulation System](https://github.com/popcorner893/SimulacionIncendios)** - A simulation engine utilizing cellular automata to model fire propagation across forest-urban environments.
 * 🐍 **[Pro Snake Game (ARM)](https://github.com/popcorner893/Pro-Snake-Game-ARM-Assembly)** - The classic game built entirely in ARM Assembly, featuring low-level memory management and hardware-level instruction sets on ARMv7 DeSoC.
 * 📈 **[Dash Tracker](https://github.com/popcorner893/Dash_Tracker_App)** - A full-stack web application for personalized habit tracking, complete with progress streaks and user dashboards.
