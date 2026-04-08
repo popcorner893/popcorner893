@@ -54,11 +54,25 @@ Welcome to my GitHub! I am a passionate Systems Engineering student at Universid
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- Contador de visitas al perfil -->
+  <img src="https://komarev.com/ghpvc/?username=popcorner893&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Tarjeta de racha de días programando (Streak) -->
   <a href="https://github.com/popcorner893">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=popcorner893&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Gráfico de líneas con tu actividad de commits (Activity Graph) -->
   <a href="https://github.com/popcorner893">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popcorner893&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=popcorner893&bg_color=141321&color=fe428e&line=f9e2af&point=f9e2af&area=true&hide_border=true&title_color=fe428e" alt="GitHub Activity Graph" />
   </a>
 </div>
 
