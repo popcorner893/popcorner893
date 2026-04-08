@@ -54,8 +54,12 @@ Welcome to my GitHub! I am a passionate Systems Engineering student at Universid
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=popcorner893&show_icons=true&theme=radium" alt="Ivan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popcorner893&layout=compact&theme=radium" alt="Top Languages" />
+  <a href="https://github.com/popcorner893">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=popcorner893&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/popcorner893">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popcorner893&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
